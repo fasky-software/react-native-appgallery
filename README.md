@@ -9,9 +9,12 @@
 
 > A tiny library to support Huawei AppGallery in-app rating/commenting for React-Native
 
+</br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fasky-software/react-native-appgallery/main/assets/rate.png" width="471" height="308"/>
+  <img src="https://raw.githubusercontent.com/fasky-software/react-native-appgallery/main/assets/rate.png"/>
 </div>
+
+</br>
 
 With this library you can open the native AppGallery in-app rating popup to allow an smooth rating/feedback process for your users.
 
